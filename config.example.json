@@ -1,0 +1,59 @@
+{
+  "capture": {
+    "left": 100,
+    "top": 100,
+    "width": 1280,
+    "height": 720
+  },
+  "court": {
+    "left": 0.03,
+    "right": 0.97,
+    "top": 0.08,
+    "floor": 0.91,
+    "net_x": 0.50
+  },
+  "vision": {
+    "detector": "screen",
+    "ball_roi": [0.08, 0.72, 0.085, 0.78],
+    "ball_excluded_points": [[0.109, 0.201]],
+    "ball_rgb": null,
+    "player_rgb": null,
+    "ball_tolerance": 70,
+    "player_tolerance": 55,
+    "ball_min_pixels": 8,
+    "player_min_pixels": 30
+  },
+  "keys": {
+    "left": "LEFT",
+    "right": "RIGHT",
+    "action": "Z",
+    "receive": "SPACE",
+    "block": "X",
+    "slide": "C"
+  },
+  "controller": {
+    "fixed_target_x_ratio": 0.365,
+    "dynamic_target_min_x_ratio": 0.08,
+    "dynamic_target_max_x_ratio": 0.52,
+    "target_lead_seconds": 0.18,
+    "position_deadzone_pixels": 35,
+    "attack_height_ratio": 0.58,
+    "action_cooldown_seconds": 0.22,
+    "action_hold_seconds": 0.08,
+    "movement_hold_seconds": 0.10,
+    "ball_gravity_pixels_per_second2": 1580.0,
+    "contact_height_ratio": 0.40,
+    "jump_lead_seconds": 0.76,
+    "jump_lead_tolerance_seconds": 0.08,
+    "jump_trigger_max_height_ratio": 0.28,
+    "fallback_jump_min_height_ratio": 0.17,
+    "fallback_jump_max_height_ratio": 0.20,
+    "fallback_max_velocity_y": 80.0,
+    "peak_spike_delay_seconds": 0.50,
+    "angled_jump_lead_seconds": 0.68,
+    "angled_spike_delay_seconds": 0.50,
+    "angled_target_offset_pixels": 70,
+    "angled_velocity_threshold": 55,
+    "peak_player_height_ratio": 0.40
+  }
+}

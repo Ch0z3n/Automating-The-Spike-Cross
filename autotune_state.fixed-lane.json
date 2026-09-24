@@ -1,0 +1,1871 @@
+{
+  "candidate_index": 0,
+  "round": 18,
+  "best_score": 0.667,
+  "best": {
+    "jump_lead_seconds": 0.72,
+    "peak_spike_delay_seconds": 0.54,
+    "fixed_target_x_ratio": 0.365
+  },
+  "history": [
+    {
+      "round": 0,
+      "candidate": {
+        "jump_lead_seconds": 0.72,
+        "peak_spike_delay_seconds": 0.5,
+        "fixed_target_x_ratio": 0.365
+      },
+      "score": 7.001,
+      "trials": [
+        {
+          "jump_time": 109097.593,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 180.44238311357537,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109098.218,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 34.36779414709478,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.635
+        },
+        {
+          "jump_time": 109100.546,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 337.1245308776741,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109101.046,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 39.617889056708194,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.618
+        },
+        {
+          "jump_time": 109103.171,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 191.57815190574183,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109103.781,
+          "spike_time": null,
+          "jump_registered": false,
+          "closest_distance": 154.25742100571304,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.0
+        },
+        {
+          "jump_time": 109106.359,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 21.864364406696097,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.677
+        },
+        {
+          "jump_time": 109106.953,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 62.62472730540195,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.541
+        },
+        {
+          "jump_time": 109108.703,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 198.45497692815638,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109109.281,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 38.080385380899614,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.623
+        },
+        {
+          "jump_time": 109111.906,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 58.388187447856765,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.555
+        },
+        {
+          "jump_time": 109112.437,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 67.96846897499947,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.523
+        }
+      ],
+      "score_per_trial": 0.583,
+      "registered_rate": 0.917,
+      "fitness": 0.583
+    },
+    {
+      "round": 1,
+      "candidate": {
+        "jump_lead_seconds": 0.76,
+        "peak_spike_delay_seconds": 0.5,
+        "fixed_target_x_ratio": 0.365
+      },
+      "score": 6.578,
+      "trials": [
+        {
+          "jump_time": 109190.453,
+          "spike_time": null,
+          "jump_registered": false,
+          "closest_distance": 333.5444212429576,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.0
+        },
+        {
+          "jump_time": 109190.953,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 9.626613141987228,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.718
+        },
+        {
+          "jump_time": 109193.062,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 198.4019755922944,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109193.578,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 27.958881383967867,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.657
+        },
+        {
+          "jump_time": 109196.0,
+          "spike_time": null,
+          "jump_registered": false,
+          "closest_distance": 339.4225285235042,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.0
+        },
+        {
+          "jump_time": 109196.546,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 72.0195370066707,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.51
+        },
+        {
+          "jump_time": 109198.609,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 188.92843199451494,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109199.203,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 25.420545428811234,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.665
+        },
+        {
+          "jump_time": 109201.312,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 187.38147846347127,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109201.906,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 29.587326748374192,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.651
+        },
+        {
+          "jump_time": 109204.25,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 192.37990182011427,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109204.812,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 25.107394914776076,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.666
+        }
+      ],
+      "score_per_trial": 0.548,
+      "registered_rate": 0.833,
+      "fitness": 0.548
+    },
+    {
+      "round": 2,
+      "candidate": {
+        "jump_lead_seconds": 0.68,
+        "peak_spike_delay_seconds": 0.5,
+        "fixed_target_x_ratio": 0.365
+      },
+      "score": 4.48,
+      "trials": [
+        {
+          "jump_time": 109231.906,
+          "spike_time": null,
+          "jump_registered": false,
+          "closest_distance": 336.0729471284878,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.0
+        },
+        {
+          "jump_time": 109232.453,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 112.51600210391935,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.375
+        },
+        {
+          "jump_time": 109234.812,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 352.6902606235875,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109235.437,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 36.23903222254455,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.629
+        },
+        {
+          "jump_time": 109237.328,
+          "spike_time": null,
+          "jump_registered": false,
+          "closest_distance": 317.9668627555941,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.0
+        },
+        {
+          "jump_time": 109237.921,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 55.290246974707365,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.566
+        },
+        {
+          "jump_time": 109240.046,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 205.7601775467159,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109240.546,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 31.680982176481475,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.644
+        },
+        {
+          "jump_time": 109243.078,
+          "spike_time": null,
+          "jump_registered": false,
+          "closest_distance": 349.919581219813,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.0
+        },
+        {
+          "jump_time": 109243.593,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 45.84839305376957,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.597
+        }
+      ],
+      "score_per_trial": 0.448,
+      "registered_rate": 0.7,
+      "fitness": 0.448
+    },
+    {
+      "round": 3,
+      "candidate": {
+        "jump_lead_seconds": 0.72,
+        "peak_spike_delay_seconds": 0.54,
+        "fixed_target_x_ratio": 0.365
+      },
+      "score": 7.999,
+      "trials": [
+        {
+          "jump_time": 109264.718,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 132.16969270417044,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.309
+        },
+        {
+          "jump_time": 109265.359,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 40.87261861051968,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.614
+        },
+        {
+          "jump_time": 109267.406,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 278.479132126112,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109267.953,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 23.187368439311545,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.673
+        },
+        {
+          "jump_time": 109270.343,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 83.10188434740665,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.473
+        },
+        {
+          "jump_time": 109271.0,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 24.151434461019615,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.669
+        },
+        {
+          "jump_time": 109273.046,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 292.5349118471101,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109273.593,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 20.720683930877954,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.681
+        },
+        {
+          "jump_time": 109275.89,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 98.92029420513992,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.42
+        },
+        {
+          "jump_time": 109276.5,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 21.31265380605495,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.679
+        },
+        {
+          "jump_time": 109278.562,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 200.65574565590336,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109279.171,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 28.9809092310295,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.653
+        }
+      ],
+      "score_per_trial": 0.667,
+      "registered_rate": 1.0,
+      "fitness": 0.667
+    },
+    {
+      "round": 4,
+      "candidate": {
+        "jump_lead_seconds": 0.72,
+        "peak_spike_delay_seconds": 0.46,
+        "fixed_target_x_ratio": 0.365
+      },
+      "score": 7.537,
+      "trials": [
+        {
+          "jump_time": 109297.875,
+          "spike_time": null,
+          "jump_registered": false,
+          "closest_distance": 339.63620854308067,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.0
+        },
+        {
+          "jump_time": 109298.406,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 33.09805295869235,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.64
+        },
+        {
+          "jump_time": 109300.437,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 189.96634686618424,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109300.968,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 32.32513391331633,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.642
+        },
+        {
+          "jump_time": 109303.328,
+          "spike_time": null,
+          "jump_registered": false,
+          "closest_distance": 319.1430895623841,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.0
+        },
+        {
+          "jump_time": 109303.843,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 28.853794779485938,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.654
+        },
+        {
+          "jump_time": 109306.0,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 216.66278925821484,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109306.5,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 29.025479758391683,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.653
+        },
+        {
+          "jump_time": 109308.968,
+          "spike_time": null,
+          "jump_registered": false,
+          "closest_distance": 343.0960637034179,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.0
+        },
+        {
+          "jump_time": 109309.5,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 23.234624287519015,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.673
+        },
+        {
+          "jump_time": 109311.75,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 259.50937502164277,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109312.25,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 28.67141557436741,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.654
+        },
+        {
+          "jump_time": 109314.515,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 267.6446697199923,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109315.0,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 23.981397134872115,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.67
+        }
+      ],
+      "score_per_trial": 0.538,
+      "registered_rate": 0.786,
+      "fitness": 0.538
+    },
+    {
+      "round": 5,
+      "candidate": {
+        "jump_lead_seconds": 0.72,
+        "peak_spike_delay_seconds": 0.5,
+        "fixed_target_x_ratio": 0.36
+      },
+      "score": 4.849,
+      "trials": [
+        {
+          "jump_time": 109334.281,
+          "spike_time": 109334.75,
+          "jump_registered": true,
+          "closest_distance": 72.30617005739303,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.509
+        },
+        {
+          "jump_time": 109336.468,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 178.4212901379866,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109336.968,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 8.423966487854308,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.722
+        },
+        {
+          "jump_time": 109339.234,
+          "spike_time": null,
+          "jump_registered": false,
+          "closest_distance": 332.9462869116374,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.0
+        },
+        {
+          "jump_time": 109339.812,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 58.07368756584306,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.556
+        },
+        {
+          "jump_time": 109341.875,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 153.3685662476756,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109342.468,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 28.5621246879924,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.655
+        },
+        {
+          "jump_time": 109344.796,
+          "spike_time": null,
+          "jump_registered": false,
+          "closest_distance": 328.95378129504684,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.0
+        },
+        {
+          "jump_time": 109345.312,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 28.978512027411,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.653
+        }
+      ],
+      "score_per_trial": 0.539,
+      "registered_rate": 0.778,
+      "fitness": 0.485
+    },
+    {
+      "round": 6,
+      "candidate": {
+        "jump_lead_seconds": 0.72,
+        "peak_spike_delay_seconds": 0.5,
+        "fixed_target_x_ratio": 0.37
+      },
+      "score": 7.701,
+      "trials": [
+        {
+          "jump_time": 109366.921,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 156.75465593713238,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109367.421,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 21.35284009636966,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.679
+        },
+        {
+          "jump_time": 109369.421,
+          "spike_time": null,
+          "jump_registered": false,
+          "closest_distance": 331.634048946758,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.0
+        },
+        {
+          "jump_time": 109369.921,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 24.874141602824036,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.667
+        },
+        {
+          "jump_time": 109372.031,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 277.706602829669,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109372.531,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 28.563178657187375,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.655
+        },
+        {
+          "jump_time": 109374.734,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 251.66867758242097,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109375.234,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 9999.0,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109377.734,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 171.92894974703992,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109378.281,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 40.63492258344253,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.615
+        },
+        {
+          "jump_time": 109380.468,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 253.14216722987427,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109380.968,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 28.021167709673907,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.657
+        },
+        {
+          "jump_time": 109383.343,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 179.9791967356349,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109383.875,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 29.32252752912029,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.652
+        }
+      ],
+      "score_per_trial": 0.55,
+      "registered_rate": 0.929,
+      "fitness": 0.55
+    },
+    {
+      "round": 7,
+      "candidate": {
+        "jump_lead_seconds": 0.76,
+        "peak_spike_delay_seconds": 0.54,
+        "fixed_target_x_ratio": 0.365
+      },
+      "score": 6.819,
+      "trials": [
+        {
+          "jump_time": 109405.281,
+          "spike_time": null,
+          "jump_registered": false,
+          "closest_distance": 331.206999173996,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.0
+        },
+        {
+          "jump_time": 109405.843,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 36.93085063720563,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.627
+        },
+        {
+          "jump_time": 109407.89,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 146.06019526924092,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.263
+        },
+        {
+          "jump_time": 109408.5,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 28.624105363332163,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.655
+        },
+        {
+          "jump_time": 109410.796,
+          "spike_time": null,
+          "jump_registered": false,
+          "closest_distance": 321.53814621812285,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.0
+        },
+        {
+          "jump_time": 109411.406,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 61.298993217949004,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.546
+        },
+        {
+          "jump_time": 109413.453,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 128.19546392455345,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.323
+        },
+        {
+          "jump_time": 109414.093,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 20.621105010142625,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.681
+        },
+        {
+          "jump_time": 109416.171,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 205.94407715971505,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109416.765,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 21.212086956657274,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.679
+        },
+        {
+          "jump_time": 109419.109,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 115.33218865712088,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.366
+        },
+        {
+          "jump_time": 109419.765,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 25.877160940983693,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.664
+        }
+      ],
+      "score_per_trial": 0.568,
+      "registered_rate": 0.833,
+      "fitness": 0.568
+    },
+    {
+      "round": 8,
+      "candidate": {
+        "jump_lead_seconds": 0.68,
+        "peak_spike_delay_seconds": 0.46,
+        "fixed_target_x_ratio": 0.365
+      },
+      "score": 6.604,
+      "trials": [
+        {
+          "jump_time": 109438.562,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 84.67230197516291,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.468
+        },
+        {
+          "jump_time": 109439.078,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 28.656380539173245,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.654
+        },
+        {
+          "jump_time": 109441.109,
+          "spike_time": null,
+          "jump_registered": false,
+          "closest_distance": 340.9948946896546,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.0
+        },
+        {
+          "jump_time": 109441.609,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 63.811511656594156,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.537
+        },
+        {
+          "jump_time": 109443.687,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 212.32392093041568,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109444.203,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 23.293056761145078,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.672
+        },
+        {
+          "jump_time": 109446.578,
+          "spike_time": null,
+          "jump_registered": false,
+          "closest_distance": 328.7982784326151,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.0
+        },
+        {
+          "jump_time": 109447.062,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 58.36693813426502,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.555
+        },
+        {
+          "jump_time": 109449.296,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 200.96321982085405,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109449.843,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 50.21929549193212,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.583
+        },
+        {
+          "jump_time": 109452.14,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 288.88306356976113,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109452.609,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 24.597326274183285,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.668
+        }
+      ],
+      "score_per_trial": 0.55,
+      "registered_rate": 0.833,
+      "fitness": 0.55
+    },
+    {
+      "round": 9,
+      "candidate": {
+        "jump_lead_seconds": 0.72,
+        "peak_spike_delay_seconds": 0.5,
+        "fixed_target_x_ratio": 0.365
+      },
+      "score": 4.605,
+      "trials": [
+        {
+          "jump_time": 109474.281,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 186.17398074395112,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109474.843,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 26.90642922528836,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.66
+        },
+        {
+          "jump_time": 109479.703,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 210.53897015616215,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109480.234,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 20.90597619998803,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.68
+        },
+        {
+          "jump_time": 109482.593,
+          "spike_time": null,
+          "jump_registered": false,
+          "closest_distance": 339.65905710209756,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.0
+        },
+        {
+          "jump_time": 109483.093,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 35.018522325051194,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.633
+        },
+        {
+          "jump_time": 109485.109,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 208.084082616686,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109485.64,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 19.756558218398954,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.684
+        }
+      ],
+      "score_per_trial": 0.576,
+      "registered_rate": 0.875,
+      "fitness": 0.461
+    },
+    {
+      "round": 10,
+      "candidate": {
+        "jump_lead_seconds": 0.76,
+        "peak_spike_delay_seconds": 0.5,
+        "fixed_target_x_ratio": 0.365
+      },
+      "score": 7.852,
+      "trials": [
+        {
+          "jump_time": 109507.796,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 64.6926158767443,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.534
+        },
+        {
+          "jump_time": 109508.296,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 61.79040745127925,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.544
+        },
+        {
+          "jump_time": 109510.187,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 202.14043489322302,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109510.703,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 28.979961141654584,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.653
+        },
+        {
+          "jump_time": 109513.375,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 156.93753791753986,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109513.937,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 72.38989001128354,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.509
+        },
+        {
+          "jump_time": 109515.765,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 179.92608023320486,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109516.265,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 28.379404944431094,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.655
+        },
+        {
+          "jump_time": 109518.437,
+          "spike_time": null,
+          "jump_registered": false,
+          "closest_distance": 319.6915267428258,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.0
+        },
+        {
+          "jump_time": 109519.0,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 10.943501910851227,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.714
+        },
+        {
+          "jump_time": 109521.171,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 212.76488911438372,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109521.703,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 20.88118518069989,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.68
+        },
+        {
+          "jump_time": 109524.687,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 377.30614366128185,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109525.203,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 9999.0,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        }
+      ],
+      "score_per_trial": 0.561,
+      "registered_rate": 0.929,
+      "fitness": 0.561
+    },
+    {
+      "round": 11,
+      "candidate": {
+        "jump_lead_seconds": 0.68,
+        "peak_spike_delay_seconds": 0.5,
+        "fixed_target_x_ratio": 0.365
+      },
+      "score": 4.711,
+      "trials": [
+        {
+          "jump_time": 109546.14,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 176.08162188308742,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109546.656,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 29.049932274155914,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.653
+        },
+        {
+          "jump_time": 109549.218,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 56.01406442228434,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.563
+        },
+        {
+          "jump_time": 109549.765,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 69.86087072757431,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.517
+        },
+        {
+          "jump_time": 109551.593,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 258.88688409167725,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109552.14,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 22.191834251816715,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.676
+        },
+        {
+          "jump_time": 109554.953,
+          "spike_time": 109555.328,
+          "jump_registered": true,
+          "closest_distance": 51.127949618983926,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.58
+        }
+      ],
+      "score_per_trial": 0.673,
+      "registered_rate": 1.0,
+      "fitness": 0.471
+    },
+    {
+      "round": 12,
+      "candidate": {
+        "jump_lead_seconds": 0.72,
+        "peak_spike_delay_seconds": 0.54,
+        "fixed_target_x_ratio": 0.365
+      },
+      "score": 3.748,
+      "trials": [
+        {
+          "jump_time": 109576.515,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 276.09015183319434,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109577.078,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 26.317584532530695,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.662
+        },
+        {
+          "jump_time": 109579.343,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 148.1116704694264,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.256
+        },
+        {
+          "jump_time": 109579.906,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 52.42838746479492,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.575
+        },
+        {
+          "jump_time": 109582.0,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 119.93134321352643,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.35
+        },
+        {
+          "jump_time": 109582.625,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 22.9048239495874,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.674
+        }
+      ],
+      "score_per_trial": 0.625,
+      "registered_rate": 1.0,
+      "fitness": 0.375
+    },
+    {
+      "round": 13,
+      "candidate": {
+        "jump_lead_seconds": 0.72,
+        "peak_spike_delay_seconds": 0.46,
+        "fixed_target_x_ratio": 0.365
+      },
+      "score": 6.194,
+      "score_per_trial": 0.619,
+      "fitness": 0.619,
+      "trials": [
+        {
+          "jump_time": 109807.421,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 277.69264231033264,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109807.968,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 24.680481370078382,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.668
+        },
+        {
+          "jump_time": 109810.281,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 248.91702202166618,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109810.828,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 29.786333533645628,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.651
+        },
+        {
+          "jump_time": 109813.078,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 157.77283594525497,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109813.578,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 67.0485718408161,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.527
+        },
+        {
+          "jump_time": 109815.843,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 150.43257738718688,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109816.359,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 22.907706401588158,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.674
+        },
+        {
+          "jump_time": 109818.812,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 84.25705129366379,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.469
+        },
+        {
+          "jump_time": 109819.312,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 49.55993549629434,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.585
+        }
+      ],
+      "registered_rate": 1.0
+    },
+    {
+      "round": 14,
+      "candidate": {
+        "jump_lead_seconds": 0.72,
+        "peak_spike_delay_seconds": 0.5,
+        "fixed_target_x_ratio": 0.36
+      },
+      "score": 7.603,
+      "score_per_trial": 0.634,
+      "fitness": 0.634,
+      "trials": [
+        {
+          "jump_time": 109840.375,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 265.0098894770099,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109840.89,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 25.34132460267804,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.666
+        },
+        {
+          "jump_time": 109843.25,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 207.48716954425421,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109843.781,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 8.020781706052746,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.723
+        },
+        {
+          "jump_time": 109846.015,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 203.25308191390107,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109846.515,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 26.720685495996086,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.661
+        },
+        {
+          "jump_time": 109848.921,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 185.36115072029625,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109849.421,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 32.27603869562672,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.642
+        },
+        {
+          "jump_time": 109851.593,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 271.7644921475809,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109852.14,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 25.77319197345745,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.664
+        },
+        {
+          "jump_time": 109854.578,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 121.91265306185917,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.344
+        },
+        {
+          "jump_time": 109855.109,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 24.71446190501684,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.668
+        }
+      ],
+      "registered_rate": 1.0
+    },
+    {
+      "round": 15,
+      "candidate": {
+        "jump_lead_seconds": 0.72,
+        "peak_spike_delay_seconds": 0.5,
+        "fixed_target_x_ratio": 0.37
+      },
+      "score": 6.902,
+      "score_per_trial": 0.575,
+      "fitness": 0.575,
+      "trials": [
+        {
+          "jump_time": 109873.953,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 186.10683427308228,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109874.546,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 19.520923485929117,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.685
+        },
+        {
+          "jump_time": 109877.187,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 22.03065289186055,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.677
+        },
+        {
+          "jump_time": 109877.718,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 72.4166664754974,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.509
+        },
+        {
+          "jump_time": 109879.468,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 186.75584033182366,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109879.984,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 23.58412927857477,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.671
+        },
+        {
+          "jump_time": 109882.14,
+          "spike_time": null,
+          "jump_registered": false,
+          "closest_distance": 312.01539050480164,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.0
+        },
+        {
+          "jump_time": 109882.703,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 18.908542848570885,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.687
+        },
+        {
+          "jump_time": 109885.171,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 141.5061104706397,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.278
+        },
+        {
+          "jump_time": 109885.718,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 42.87273414653419,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.607
+        },
+        {
+          "jump_time": 109887.828,
+          "spike_time": null,
+          "jump_registered": false,
+          "closest_distance": 343.1391891864267,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.0
+        },
+        {
+          "jump_time": 109888.343,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 74.16525401271446,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.503
+        }
+      ],
+      "registered_rate": 0.833
+    },
+    {
+      "round": 16,
+      "candidate": {
+        "jump_lead_seconds": 0.76,
+        "peak_spike_delay_seconds": 0.54,
+        "fixed_target_x_ratio": 0.365
+      },
+      "score": 6.975,
+      "score_per_trial": 0.537,
+      "fitness": 0.537,
+      "trials": [
+        {
+          "jump_time": 109907.421,
+          "spike_time": 109907.859,
+          "jump_registered": true,
+          "closest_distance": 76.39890979660346,
+          "max_post_spike_vx": 9.60009765625,
+          "contact_score": 0.506
+        },
+        {
+          "jump_time": 109909.625,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 195.70298981701768,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109910.171,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 23.401773230045297,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.672
+        },
+        {
+          "jump_time": 109912.296,
+          "spike_time": null,
+          "jump_registered": false,
+          "closest_distance": 295.09641142290354,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.0
+        },
+        {
+          "jump_time": 109912.875,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 25.5776238096162,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.665
+        },
+        {
+          "jump_time": 109915.015,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 158.01014414627753,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 109915.625,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 28.638385602932978,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.655
+        },
+        {
+          "jump_time": 109917.953,
+          "spike_time": null,
+          "jump_registered": false,
+          "closest_distance": 332.38601702072884,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.0
+        },
+        {
+          "jump_time": 109918.562,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 51.442828299909486,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.579
+        },
+        {
+          "jump_time": 109920.546,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 146.2527533802841,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.262
+        },
+        {
+          "jump_time": 109921.171,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 19.851773411768285,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.684
+        },
+        {
+          "jump_time": 109923.453,
+          "spike_time": null,
+          "jump_registered": false,
+          "closest_distance": 327.4133359503247,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.0
+        },
+        {
+          "jump_time": 109924.0,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 26.581652898582742,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.661
+        }
+      ],
+      "registered_rate": 0.769
+    },
+    {
+      "round": 17,
+      "candidate": {
+        "jump_lead_seconds": 0.68,
+        "peak_spike_delay_seconds": 0.46,
+        "fixed_target_x_ratio": 0.365
+      },
+      "score": 6.29,
+      "score_per_trial": 0.524,
+      "fitness": 0.524,
+      "trials": [
+        {
+          "jump_time": 110029.234,
+          "spike_time": null,
+          "jump_registered": false,
+          "closest_distance": 330.574358066901,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.0
+        },
+        {
+          "jump_time": 110029.718,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 8.07279502057806,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.723
+        },
+        {
+          "jump_time": 110032.109,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 263.25572944448686,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 110032.609,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 22.659618876327784,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.674
+        },
+        {
+          "jump_time": 110034.89,
+          "spike_time": null,
+          "jump_registered": false,
+          "closest_distance": 349.2323228655621,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.0
+        },
+        {
+          "jump_time": 110035.437,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 121.79611286859999,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.344
+        },
+        {
+          "jump_time": 110037.406,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 186.26830955015248,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 110037.937,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 18.278099592696563,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.689
+        },
+        {
+          "jump_time": 110040.296,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 277.0668716709287,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 110040.828,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 63.79994021126833,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.537
+        },
+        {
+          "jump_time": 110043.015,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 208.28656031029507,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 110043.515,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 21.4675600980951,
+          "max_post_spike_vx": 0.0,
+          "contact_score": 0.678
+        }
+      ]
+    }
+  ]
+}

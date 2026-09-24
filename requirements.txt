@@ -1,0 +1,4 @@
+numpy>=2
+opencv-python-headless>=5
+Pillow>=12
+

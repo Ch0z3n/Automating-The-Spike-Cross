@@ -1,0 +1,280 @@
+{
+  "candidate_index": 4,
+  "round": 4,
+  "best_score": 0.268,
+  "best": {
+    "jump_lead_seconds": 0.72,
+    "peak_spike_delay_seconds": 0.5,
+    "fixed_target_x_ratio": 0.365
+  },
+  "history": [
+    {
+      "round": 0,
+      "candidate": {
+        "jump_lead_seconds": 0.72,
+        "peak_spike_delay_seconds": 0.5,
+        "fixed_target_x_ratio": 0.365
+      },
+      "score": 2.683,
+      "score_per_trial": 0.447,
+      "fitness": 0.268,
+      "trials": [
+        {
+          "jump_time": 116778.734,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 181.64167687978758,
+          "max_post_spike_vx": 0.0,
+          "ball_y_at_jump": 204.60000610351562,
+          "vx_at_jump": null,
+          "predicted_contact_x": 696.6000366210938,
+          "trajectory": "normal",
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 116779.25,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 90.25817626886099,
+          "max_post_spike_vx": 0.0,
+          "ball_y_at_jump": 249.00001525878906,
+          "vx_at_jump": 5.106434923524586,
+          "predicted_contact_x": 698.4366206496932,
+          "trajectory": "normal",
+          "contact_score": 0.449
+        },
+        {
+          "jump_time": 116781.765,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 256.20630726760896,
+          "max_post_spike_vx": 0.0,
+          "ball_y_at_jump": 216.60000610351562,
+          "vx_at_jump": null,
+          "predicted_contact_x": 209.40000915527344,
+          "trajectory": "angled",
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 116782.281,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 107.46869482144365,
+          "max_post_spike_vx": 0.0,
+          "ball_y_at_jump": 216.60000610351562,
+          "vx_at_jump": 0.0,
+          "predicted_contact_x": 209.40000915527344,
+          "trajectory": "angled",
+          "contact_score": 0.392
+        },
+        {
+          "jump_time": 116785.515,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 181.8603635110992,
+          "max_post_spike_vx": 0.0,
+          "ball_y_at_jump": 216.60000610351562,
+          "vx_at_jump": null,
+          "predicted_contact_x": 209.40000915527344,
+          "trajectory": "angled",
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 116786.031,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 117.78491616957149,
+          "max_post_spike_vx": 0.0,
+          "ball_y_at_jump": 216.60000610351562,
+          "vx_at_jump": 0.0,
+          "predicted_contact_x": 209.40000915527344,
+          "trajectory": "angled",
+          "contact_score": 0.357
+        }
+      ],
+      "trajectory_breakdown": {
+        "normal": {
+          "trials": 2,
+          "score_per_trial": 0.479
+        },
+        "angled": {
+          "trials": 4,
+          "score_per_trial": 0.431
+        }
+      }
+    },
+    {
+      "round": 1,
+      "candidate": {
+        "jump_lead_seconds": 0.76,
+        "peak_spike_delay_seconds": 0.5,
+        "fixed_target_x_ratio": 0.365
+      },
+      "score": 0.87,
+      "score_per_trial": 0.29,
+      "fitness": 0.087,
+      "trials": [
+        {
+          "jump_time": 116820.281,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 193.84392843504045,
+          "max_post_spike_vx": 0.0,
+          "ball_y_at_jump": 216.60000610351562,
+          "vx_at_jump": 5.911390182169089,
+          "predicted_contact_x": 701.3488632487016,
+          "trajectory": "normal",
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 116820.796,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 110.71385791343704,
+          "max_post_spike_vx": 0.0,
+          "ball_y_at_jump": null,
+          "vx_at_jump": 0.0,
+          "predicted_contact_x": null,
+          "trajectory": "normal",
+          "contact_score": 0.381
+        },
+        {
+          "jump_time": 116825.093,
+          "spike_time": null,
+          "jump_registered": false,
+          "closest_distance": 258.361442834883,
+          "max_post_spike_vx": 0.0,
+          "ball_y_at_jump": 216.60000610351562,
+          "vx_at_jump": null,
+          "predicted_contact_x": 209.40000915527344,
+          "trajectory": "angled",
+          "contact_score": 0.0
+        }
+      ],
+      "trajectory_breakdown": {
+        "normal": {
+          "trials": 2,
+          "score_per_trial": 0.435
+        },
+        "angled": {
+          "trials": 1,
+          "score_per_trial": 0.0
+        }
+      }
+    },
+    {
+      "round": 2,
+      "candidate": {
+        "jump_lead_seconds": 0.68,
+        "peak_spike_delay_seconds": 0.5,
+        "fixed_target_x_ratio": 0.365
+      },
+      "score": 1.771,
+      "score_per_trial": 0.443,
+      "fitness": 0.177,
+      "trials": [
+        {
+          "jump_time": 116856.453,
+          "spike_time": null,
+          "jump_registered": false,
+          "closest_distance": 334.6595483348265,
+          "max_post_spike_vx": 0.0,
+          "ball_y_at_jump": 204.60000610351562,
+          "vx_at_jump": null,
+          "predicted_contact_x": 696.6000366210938,
+          "trajectory": "normal",
+          "contact_score": 0.0
+        },
+        {
+          "jump_time": 116857.0,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 12.326790362952721,
+          "max_post_spike_vx": 0.0,
+          "ball_y_at_jump": null,
+          "vx_at_jump": null,
+          "predicted_contact_x": null,
+          "trajectory": "normal",
+          "contact_score": 0.709
+        },
+        {
+          "jump_time": 116860.906,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 173.6269432685495,
+          "max_post_spike_vx": 0.0,
+          "ball_y_at_jump": 216.60000610351562,
+          "vx_at_jump": null,
+          "predicted_contact_x": 209.40000915527344,
+          "trajectory": "angled",
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 116861.437,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 121.2593139600228,
+          "max_post_spike_vx": 0.0,
+          "ball_y_at_jump": 216.60000610351562,
+          "vx_at_jump": 0.0,
+          "predicted_contact_x": 209.40000915527344,
+          "trajectory": "angled",
+          "contact_score": 0.346
+        }
+      ],
+      "trajectory_breakdown": {
+        "normal": {
+          "trials": 2,
+          "score_per_trial": 0.473
+        },
+        "angled": {
+          "trials": 2,
+          "score_per_trial": 0.412
+        }
+      }
+    },
+    {
+      "round": 3,
+      "candidate": {
+        "jump_lead_seconds": 0.72,
+        "peak_spike_delay_seconds": 0.54,
+        "fixed_target_x_ratio": 0.365
+      },
+      "score": 0.822,
+      "score_per_trial": 0.411,
+      "fitness": 0.082,
+      "trials": [
+        {
+          "jump_time": 116898.015,
+          "spike_time": null,
+          "jump_registered": false,
+          "closest_distance": 334.9149428413213,
+          "max_post_spike_vx": 0.0,
+          "ball_y_at_jump": 204.60000610351562,
+          "vx_at_jump": null,
+          "predicted_contact_x": 696.6000366210938,
+          "trajectory": "normal",
+          "contact_score": 0.0
+        },
+        {
+          "jump_time": 116898.64,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 40.988763930647934,
+          "max_post_spike_vx": 0.0,
+          "ball_y_at_jump": 281.4000244140625,
+          "vx_at_jump": null,
+          "predicted_contact_x": 696.6000366210938,
+          "trajectory": "normal",
+          "contact_score": 0.613
+        }
+      ],
+      "trajectory_breakdown": {
+        "normal": {
+          "trials": 2,
+          "score_per_trial": 0.411
+        }
+      }
+    }
+  ]
+}

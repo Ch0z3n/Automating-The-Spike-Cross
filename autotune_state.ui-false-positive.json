@@ -1,0 +1,189 @@
+{
+  "candidate_index": 3,
+  "round": 3,
+  "best_score": 0.23,
+  "best": {
+    "jump_lead_seconds": 0.76,
+    "peak_spike_delay_seconds": 0.5,
+    "fixed_target_x_ratio": 0.365
+  },
+  "history": [
+    {
+      "round": 0,
+      "candidate": {
+        "jump_lead_seconds": 0.72,
+        "peak_spike_delay_seconds": 0.5,
+        "fixed_target_x_ratio": 0.365
+      },
+      "score": 1.955,
+      "score_per_trial": 0.489,
+      "fitness": 0.196,
+      "trials": [
+        {
+          "jump_time": 117093.046,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 176.12675722327398,
+          "max_post_spike_vx": 0.0,
+          "ball_y_at_jump": 198.60000610351562,
+          "vx_at_jump": -5.504643151316666,
+          "predicted_contact_x": 691.4717908634409,
+          "trajectory": "normal",
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 117093.578,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 42.13308658926716,
+          "max_post_spike_vx": 0.0,
+          "ball_y_at_jump": 264.6000061035156,
+          "vx_at_jump": -4.800048828125,
+          "predicted_contact_x": 693.8417719381529,
+          "trajectory": "normal",
+          "contact_score": 0.61
+        },
+        {
+          "jump_time": 117095.734,
+          "spike_time": null,
+          "jump_registered": false,
+          "closest_distance": 329.85938726867255,
+          "max_post_spike_vx": 0.0,
+          "ball_y_at_jump": 211.8000030517578,
+          "vx_at_jump": 0.0,
+          "predicted_contact_x": 696.6000366210938,
+          "trajectory": "normal",
+          "contact_score": 0.0
+        },
+        {
+          "jump_time": 117096.281,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 48.98722808692187,
+          "max_post_spike_vx": 0.0,
+          "ball_y_at_jump": null,
+          "vx_at_jump": 0.0,
+          "predicted_contact_x": null,
+          "trajectory": "normal",
+          "contact_score": 0.587
+        }
+      ],
+      "trajectory_breakdown": {
+        "normal": {
+          "trials": 4,
+          "score_per_trial": 0.489
+        }
+      }
+    },
+    {
+      "round": 1,
+      "candidate": {
+        "jump_lead_seconds": 0.76,
+        "peak_spike_delay_seconds": 0.5,
+        "fixed_target_x_ratio": 0.365
+      },
+      "score": 2.297,
+      "score_per_trial": 0.574,
+      "fitness": 0.23,
+      "trials": [
+        {
+          "jump_time": 117129.25,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 190.74257394682215,
+          "max_post_spike_vx": 0.0,
+          "ball_y_at_jump": 223.8000030517578,
+          "vx_at_jump": 0.0,
+          "predicted_contact_x": 696.6000366210938,
+          "trajectory": "normal",
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 117129.765,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 32.92309865432541,
+          "max_post_spike_vx": 0.0,
+          "ball_y_at_jump": null,
+          "vx_at_jump": 0.0,
+          "predicted_contact_x": null,
+          "trajectory": "normal",
+          "contact_score": 0.64
+        },
+        {
+          "jump_time": 117132.359,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 164.44497505435086,
+          "max_post_spike_vx": 0.0,
+          "ball_y_at_jump": 189.0,
+          "vx_at_jump": null,
+          "predicted_contact_x": 696.6000366210938,
+          "trajectory": "normal",
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 117132.859,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 60.10101403496742,
+          "max_post_spike_vx": 0.0,
+          "ball_y_at_jump": 349.8000183105469,
+          "vx_at_jump": 0.0,
+          "predicted_contact_x": 695.4000244140625,
+          "trajectory": "normal",
+          "contact_score": 0.55
+        }
+      ],
+      "trajectory_breakdown": {
+        "normal": {
+          "trials": 4,
+          "score_per_trial": 0.574
+        }
+      }
+    },
+    {
+      "round": 2,
+      "candidate": {
+        "jump_lead_seconds": 0.68,
+        "peak_spike_delay_seconds": 0.5,
+        "fixed_target_x_ratio": 0.365
+      },
+      "score": 0.7,
+      "score_per_trial": 0.35,
+      "fitness": 0.07,
+      "trials": [
+        {
+          "jump_time": 117165.218,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 187.44959159625742,
+          "max_post_spike_vx": 0.0,
+          "ball_y_at_jump": 223.8000030517578,
+          "vx_at_jump": 0.0,
+          "predicted_contact_x": 696.6000366210938,
+          "trajectory": "normal",
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 117165.734,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 161.56390674173952,
+          "max_post_spike_vx": 0.0,
+          "ball_y_at_jump": null,
+          "vx_at_jump": 0.0,
+          "predicted_contact_x": null,
+          "trajectory": "normal",
+          "contact_score": 0.25
+        }
+      ],
+      "trajectory_breakdown": {
+        "normal": {
+          "trials": 2,
+          "score_per_trial": 0.35
+        }
+      }
+    }
+  ]
+}

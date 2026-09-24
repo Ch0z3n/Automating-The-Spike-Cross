@@ -1,0 +1,79 @@
+{
+  "candidate_index": 1,
+  "round": 1,
+  "best_score": 0.219,
+  "best": {
+    "jump_lead_seconds": 0.72,
+    "peak_spike_delay_seconds": 0.5,
+    "fixed_target_x_ratio": 0.365
+  },
+  "history": [
+    {
+      "round": 0,
+      "candidate": {
+        "jump_lead_seconds": 0.72,
+        "peak_spike_delay_seconds": 0.5,
+        "fixed_target_x_ratio": 0.365
+      },
+      "score": 2.194,
+      "score_per_trial": 0.548,
+      "fitness": 0.219,
+      "trials": [
+        {
+          "jump_time": 117473.546,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 130.04629963554777,
+          "max_post_spike_vx": 0.0,
+          "ball_y_at_jump": 217.8000030517578,
+          "vx_at_jump": null,
+          "predicted_contact_x": 696.6000366210938,
+          "trajectory": "normal",
+          "contact_score": 0.317
+        },
+        {
+          "jump_time": 117474.078,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 68.0366987365449,
+          "max_post_spike_vx": 0.0,
+          "ball_y_at_jump": 484.20001220703125,
+          "vx_at_jump": 14.400146484375,
+          "predicted_contact_x": 696.6000366210938,
+          "trajectory": "normal",
+          "contact_score": 0.523
+        },
+        {
+          "jump_time": 117475.921,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 172.45369639863168,
+          "max_post_spike_vx": 0.0,
+          "ball_y_at_jump": 199.8000030517578,
+          "vx_at_jump": null,
+          "predicted_contact_x": 697.800048828125,
+          "trajectory": "normal",
+          "contact_score": 0.25
+        },
+        {
+          "jump_time": 117476.468,
+          "spike_time": null,
+          "jump_registered": true,
+          "closest_distance": 68.7953150852761,
+          "max_post_spike_vx": 0.0,
+          "ball_y_at_jump": 268.20001220703125,
+          "vx_at_jump": 0.0,
+          "predicted_contact_x": 696.6000366210938,
+          "trajectory": "normal",
+          "contact_score": 0.521
+        }
+      ],
+      "trajectory_breakdown": {
+        "normal": {
+          "trials": 4,
+          "score_per_trial": 0.548
+        }
+      }
+    }
+  ]
+}
